@@ -1,0 +1,8 @@
+.secrets/
+.oauth_states.json
+.book.lock
+.venv/
+__pycache__/
+*.pyc
+uvicorn.log
+stone-audit-pkg/

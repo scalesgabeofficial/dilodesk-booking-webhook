@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.log
+token.json
+.book.lock
